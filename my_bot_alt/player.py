@@ -1,7 +1,7 @@
 '''
 Simple example pokerbot, written in Python.
 '''
-from helpers import hand_rank
+from helpers import *
 from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction
 from skeleton.states import GameState, TerminalState, RoundState
 from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
@@ -51,6 +51,8 @@ class Player(Bot):
         self.cards_suited = (my_cards[0][1] == my_cards[1][1])
 
         if my_cards[0][0] == my_cards[1][0]:
+            self.rank_strength = 3
+        elif (my_cards[0][0] in "AKQ") and (my_cards[1][0] in "AKQ"):
             self.rank_strength = 2
         elif (my_cards[0][0] in "AKQJT") or (my_cards[1][0] in "AKQJT"):
             self.rank_strength = 1
@@ -113,25 +115,31 @@ class Player(Bot):
         my_action = FoldAction()
         # Pre-flop play
         if street == 0:
-            if self.cards_suited or self.rank_strength != 0:
-                my_action = RaiseAction(min(max_raise, max(6, min_raise)))
+            if RaiseAction in legal_actions and (((self.cards_suited or self.rank_strength != 0) and self.preflop_raiser == False) or (self.rank_strength==3 and my_cards[0][0] in "AKQJT9") or (self.rank_strength == 2)):
+                my_action = RaiseAction(min(max_raise, max(6*continue_cost, min_raise)))
                 self.preflop_raiser = True
-            elif CallAction in legal_actions:
+            elif CallAction in legal_actions and self.preflop_raiser == True and (self.rank_strength >= 1):
                 my_action = CallAction()
             elif CheckAction in legal_actions:
                 my_action = CheckAction()
         
         # Flop play
         elif street == 3:
+            # C-bet
             if self.preflop_raiser:
-                if RaiseAction in legal_actions:
-                    my_action = RaiseAction(min(2*min_raise//3, max_raise))
+                # OOP or checks to us
+                if RaiseAction in legal_actions and CallAction not in legal_actions:
+                    my_action = RaiseAction(min(potsize//4, max_raise))
+                # Villain bets
                 elif CallAction in legal_actions:
-                    my_action = CallAction()
+                    if hand_strength <= 8 or (random.random() < 0.1 and self.rank_strength >= 1):
+                        my_action = CallAction()
                 elif CheckAction in legal_actions:
                     my_action = CheckAction()
+            
+            # Opponent raised or we checked
             else:
-                if random.random() <= 0.32:
+                if random.random() <= 0.19:
                     if RaiseAction in legal_actions:
                         my_action = RaiseAction(min(2*potsize//3, max_raise))
                     elif CallAction in legal_actions:
@@ -144,10 +152,26 @@ class Player(Bot):
                             my_action = RaiseAction(min(2*potsize//3, max_raise))
                         elif CallAction in legal_actions:
                             my_action = CallAction()
-                    if CheckAction in legal_actions:
+                    elif CheckAction in legal_actions:
+                        my_action = CheckAction()
+        # Turn play
+        elif street == 4:
+            if random.random() <= 0.29 and RaiseAction in legal_actions:
+                my_action = RaiseAction(min(2*potsize//3, max_raise))
+            else:
+                if hand_strength <= 7:
+                    if RaiseAction in legal_actions:
+                        my_action = RaiseAction(min(2*potsize//3, max_raise))
+                    elif CallAction in legal_actions:
+                        my_action = CallAction()
+                else:
+                    fold_freq = (continue_cost) / (potsize + continue_cost)
+                    if random.random() > fold_freq and CallAction in legal_actions:
+                        my_action = CallAction()                
+                    elif CheckAction in legal_actions:
                         my_action = CheckAction()
         else:
-            if random.random() <= 0.29 and RaiseAction in legal_actions:
+            if random.random() <= 0.10 and RaiseAction in legal_actions:
                 my_action = RaiseAction(min(2*potsize//3, max_raise))
             else:
                 if hand_strength <= 7:

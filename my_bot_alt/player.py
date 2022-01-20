@@ -29,6 +29,7 @@ class Player(Bot):
         self.cards_suited = False
         self.rank_strength = 0
         self.preflop_raiser = False
+        self.hand_strength = {}
 
     def handle_new_round(self, game_state, round_state, active):
         '''
@@ -79,6 +80,7 @@ class Player(Bot):
         #my_cards = previous_state.hands[active]  # your cards
         #opp_cards = previous_state.hands[1-active]  # opponent's cards or [] if not revealed
         self.preflop_raiser = False
+        self.hand_strength = {}
         pass
 
     def get_action(self, game_state, round_state, active):
@@ -105,20 +107,36 @@ class Player(Bot):
         continue_cost = opp_pip - my_pip  # the number of chips needed to stay in the pot
         my_contribution = STARTING_STACK - my_stack  # the number of chips you have contributed to the pot
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
-        potsize = my_contribution + opp_contribution # TODO: verify
+        potsize = my_contribution + opp_contribution
+
+        potodds = continue_cost / (potsize + continue_cost)
+        foldfreq = (continue_cost) / (potsize + continue_cost)
         
         if RaiseAction in legal_actions:
            min_raise, max_raise = round_state.raise_bounds()  # the smallest and largest numbers of chips for a legal bet/raise
            min_cost = min_raise - my_pip  # the cost of a minimum bet/raise
            max_cost = max_raise - my_pip  # the cost of a maximum bet/raise
-        hand_strength = hand_rank(my_cards, board_cards)
+        # print(my_cards)
+        try:
+            hand_strength = self.hand_strength[street]
+        except KeyError:
+            self.hand_strength[street] = calc_equity(my_cards, None, board_cards, phase=street)
+            print("recalculating...")
+            hand_strength = self.hand_strength[street]
+        print(my_cards, hand_strength)
         my_action = FoldAction()
+
         # Pre-flop play
         if street == 0:
-            if RaiseAction in legal_actions and (((self.cards_suited or self.rank_strength != 0) and self.preflop_raiser == False) or (self.rank_strength==3 and my_cards[0][0] in "AKQJT9") or (self.rank_strength == 2)):
-                my_action = RaiseAction(min(max_raise, max(6*continue_cost, min_raise)))
+            if RaiseAction in legal_actions and hand_strength > 0.2 and continue_cost <= 1: # Open raise
+                my_action = RaiseAction(min(max_raise, max(6, min_raise)))
                 self.preflop_raiser = True
-            elif CallAction in legal_actions and self.preflop_raiser == True and (self.rank_strength >= 1):
+            elif RaiseAction in legal_actions and ((continue_cost > 1 and hand_strength >= 0.7) or random.random() <= 0.05): # Three-bet
+                my_action = RaiseAction(min(max_raise, max(3*continue_cost, min_raise)))
+                self.preflop_raiser = True
+            elif CallAction in legal_actions and self.preflop_raiser == False and hand_strength > 0.3: # Call an open raise
+                my_action = CallAction()
+            elif CallAction in legal_actions and self.preflop_raiser == True and hand_strength > 0.6: # Call a three-bet
                 my_action = CallAction()
             elif CheckAction in legal_actions:
                 my_action = CheckAction()
@@ -129,62 +147,76 @@ class Player(Bot):
             if self.preflop_raiser:
                 # OOP or checks to us
                 if RaiseAction in legal_actions and CallAction not in legal_actions:
+                    print("c-betting")
                     my_action = RaiseAction(min(potsize//4, max_raise))
                 # Villain bets
                 elif CallAction in legal_actions:
-                    if hand_strength <= 8 or (random.random() < 0.1 and self.rank_strength >= 1):
+                    if hand_strength >= potodds or (random.random() < 0.1 and hand_strength > 0.15):
                         my_action = CallAction()
                 elif CheckAction in legal_actions:
                     my_action = CheckAction()
             
-            # Opponent raised or we checked
+            # Opponent raised or we checked pre-flop
             else:
-                if random.random() <= 0.19:
-                    if RaiseAction in legal_actions:
-                        my_action = RaiseAction(min(2*potsize//3, max_raise))
-                    elif CallAction in legal_actions:
-                        my_action = CallAction()
-                    elif CheckAction in legal_actions:
-                        my_action = CheckAction()
+                # Check is default action
+                if CheckAction in legal_actions:
+                    my_action = CheckAction()
+                # Bluff raise
+                if random.random() <= 0.15:
+                    if RaiseAction in legal_actions and potsize//4 >= min_raise:
+                        my_action = RaiseAction(min(potsize//4, max_raise))
                 else:
-                    if hand_strength <= 8:
+                    # Reraise a bet
+                    if hand_strength >= 0.8:
                         if RaiseAction in legal_actions:
-                            my_action = RaiseAction(min(2*potsize//3, max_raise))
-                        elif CallAction in legal_actions:
-                            my_action = CallAction()
-                    elif CheckAction in legal_actions:
-                        my_action = CheckAction()
+                            my_action = RaiseAction(min(2*continue_cost, max_raise))
+                    # If villain bets at us, call only if we have the odds
+                    elif CallAction in legal_actions and hand_strength >= potodds:
+                        my_action = CallAction()
+                    # If villain checks or it is our turn to act, bet
+                    elif RaiseAction in legal_actions and CallAction not in legal_actions and hand_strength >= 0.2:
+                        my_action = RaiseAction(min(potsize//4, max_raise))
+                    
         # Turn play
         elif street == 4:
-            if random.random() <= 0.29 and RaiseAction in legal_actions:
+            # Check is default action
+            if CheckAction in legal_actions:
+                my_action = CheckAction()
+            # Bluff raise
+            if random.random() <= 0.1 and RaiseAction in legal_actions:
                 my_action = RaiseAction(min(2*potsize//3, max_raise))
             else:
-                if hand_strength <= 7:
+                # Reraise a bet
+                if hand_strength >= 0.85:
                     if RaiseAction in legal_actions:
-                        my_action = RaiseAction(min(2*potsize//3, max_raise))
-                    elif CallAction in legal_actions:
-                        my_action = CallAction()
-                else:
-                    fold_freq = (continue_cost) / (potsize + continue_cost)
-                    if random.random() > fold_freq and CallAction in legal_actions:
-                        my_action = CallAction()                
-                    elif CheckAction in legal_actions:
-                        my_action = CheckAction()
+                        my_action = RaiseAction(min(2*continue_cost, max_raise))
+                # If villain bets at us, call only if we have the odds
+                elif CallAction in legal_actions and hand_strength >= potodds:
+                    my_action = CallAction()
+                # If villain checks or it is our turn to act, bet
+                elif RaiseAction in legal_actions and CallAction not in legal_actions and hand_strength >= 0.4:
+                    my_action = RaiseAction(min(2*potsize//3, max_raise))
+                # Don't fold too often to avoid bluffing exploitations
+                elif random.random() > (foldfreq + 0.2) and CallAction in legal_actions:
+                    my_action = CallAction() 
+                
+        # River play
         else:
-            if random.random() <= 0.10 and RaiseAction in legal_actions:
-                my_action = RaiseAction(min(2*potsize//3, max_raise))
-            else:
-                if hand_strength <= 7:
-                    if RaiseAction in legal_actions:
-                        my_action = RaiseAction(min(2*potsize//3, max_raise))
-                    elif CallAction in legal_actions:
-                        my_action = CallAction()
-                else:
-                    fold_freq = (continue_cost) / (potsize + continue_cost)
-                    if random.random() > fold_freq and CallAction in legal_actions:
-                        my_action = CallAction()                
-                    elif CheckAction in legal_actions:
+            # Default check if possible
+            if CheckAction in legal_actions:
                         my_action = CheckAction()
+            if random.random() > 0.95:
+                # Bet if we have it
+                if RaiseAction in legal_actions and hand_strength >= 0.7:
+                    my_action = RaiseAction(min(max(min_cost, random.randint(2*potsize//3, int(2.5*potsize))), max_cost))
+                # Call if we have the odds
+                elif CallAction in legal_actions and hand_strength >= potodds:
+                    my_action = CallAction()
+            # Bluff sometimes
+            else:
+                if RaiseAction in legal_actions:
+                    my_action = RaiseAction(min(max(min_cost, random.randint(2*potsize//3, int(2.5*potsize))), max_cost))
+                
         return my_action
 
 

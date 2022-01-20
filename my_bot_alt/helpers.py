@@ -1,3 +1,75 @@
+import eval7
+import random
+
+def calc_equity(hole, opp=None, board=[], ITERS=500, phase=0):
+    deck = eval7.Deck()
+    hole_cards = [eval7.Card(card) for card in hole]
+    # print(hole_cards)
+    opp_cards = []
+    if opp is not None:
+        opp_cards = [eval7.Card(card) for card in opp]
+    board_cards = [eval7.Card(card) for card in board]
+
+    for card in hole_cards:
+        deck.cards.remove(card)
+    
+    for card in opp_cards:
+        deck.cards.remove(card)
+    
+    for card in board_cards:
+        deck.cards.remove(card)
+    
+    score = 0
+    for _ in range(ITERS):
+        deck.shuffle()
+
+        if opp is None:
+            opp_cards = deck.peek(2)
+        
+        comm = board_cards + deck.peek(7-len(board_cards))[2:]
+
+        my_hand = hole_cards + comm
+        opp_hand = opp_cards + comm
+        # Take into account swapping
+        if phase == 0:
+            for i in range(2):
+                if random.random() <= 0.145:
+                    my_hand[i] = deck.peek(9)[7+i]
+            for i in range(2):
+                if random.random() <= 0.145:
+                    opp_hand[i] = deck.peek(11)[9+i]
+        if phase == 3:
+            for i in range(2):
+                if random.random() <= 0.1:
+                    my_hand[i] = deck.peek(9)[7+i]
+            for i in range(2):
+                if random.random() <= 0.1:
+                    opp_hand[i] = deck.peek(11)[9+i]
+        elif phase == 4:
+            for i in range(2):
+                if random.random() <= 0.05:
+                    my_hand[i] = deck.peek(9)[7+i]
+            for i in range(2):
+                if random.random() <= 0.05:
+                    opp_hand[i] = deck.peek(11)[9+i]
+
+        my_hand_value = eval7.evaluate(my_hand)
+        opp_hand_value = eval7.evaluate(opp_hand)
+        # print(my_hand, opp_hand)
+
+        if my_hand_value > opp_hand_value:
+            score += 2
+        elif my_hand_value == opp_hand_value:
+            score += 1
+        else:
+            score += 0
+    
+    return score / (2 * ITERS)
+
+# print("hello")
+print(calc_equity(["As", "2s"], None, [], phase=0))
+
+
 def hand_rank(my_cards, board_cards):
     """
     Given hole cards and community cards, returns the current hand rank along with highest card in that rank

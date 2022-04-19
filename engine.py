@@ -308,6 +308,7 @@ class Player():
                             return action(amount)
                     else:
                         return action()
+                # print(action, amount, min_raise, max_raise)
                 game_log.append(self.name + ' attempted illegal ' + action.__name__)
             except socket.timeout:
                 error_message = self.name + ' ran out of time'

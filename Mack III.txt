@@ -1,585 +1,3201 @@
-0.569
-['3d', '8d']
-True 0
+0.56
+['5c', 'Jh']
+False 1
 recalculating...
-['3d', '8d'] 0.4035
+['5c', 'Jh'] 0.474
 recalculating...
-['3d', '8d'] 0.62
-['2d', '2c']
+['5c', 'Jh'] 0.658
+recalculating...
+['5c', 'Jh'] 0.909
+recalculating...
+['5c', 'Jh'] 0.888
+['9d', '8c']
+False 0
+recalculating...
+['9d', '8c'] 0.481
+recalculating...
+['9d', '8c'] 0.673
+recalculating...
+['9d', '8c'] 0.687
+recalculating...
+['9d', '8c'] 0.678
+['5d', '7c']
+False 0
+recalculating...
+['5d', '7c'] 0.391
+['5d', '7c'] 0.391
+['7c', '3s']
+False 0
+recalculating...
+['7c', '3s'] 0.417
+recalculating...
+['7c', '3s'] 0.435
+recalculating...
+['7c', '3s'] 0.693
+recalculating...
+['7c', '3s'] 0.758
+['Th', '9d']
+False 1
+recalculating...
+['Th', '9d'] 0.509
+recalculating...
+['Th', '9d'] 0.312
+recalculating...
+['Th', '9d'] 0.21
+['Jd', 'Kd']
+True 1
+recalculating...
+['Jd', 'Kd'] 0.594
+recalculating...
+['Jd', 'Kd'] 0.846
+['Jd', 'Kd'] 0.846
+recalculating...
+['Jd', 'Kd'] 0.945
+['Jd', 'Kd'] 0.945
+['Jd', 'Kd'] 0.945
+['Jd', 'Kd'] 0.945
+['8s', 'Ks']
+True 1
+recalculating...
+['8s', 'Ks'] 0.546
+['8s', 'Ks'] 0.546
+['Kc', 'Kd']
 False 3
 recalculating...
-['2d', '2c'] 0.4595
-['Qs', 'Qc']
-False 3
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
+['Kc', 'Kd'] 0.765
 recalculating...
-['Qs', 'Qc'] 0.7225
+['Kc', 'Kd'] 0.912
 recalculating...
-['Qs', '8c'] 0.463
-c-betting
-['Jd', 'Qd']
+['Kc', 'Kd'] 0.925
+recalculating...
+['Kc', 'Kd'] 0.78
+['5h', '7s']
+False 0
+recalculating...
+['5h', '7s'] 0.425
+recalculating...
+['5h', '7s'] 0.244
+recalculating...
+['5h', '7s'] 0.225
+['3s', '9c']
+False 0
+recalculating...
+['3s', '9c'] 0.456
+recalculating...
+['3s', '9c'] 0.317
+recalculating...
+['3s', '9c'] 0.217
+['3s', '9c'] 0.217
+recalculating...
+['3s', '9c'] 0.139
+['Qh', '2s']
+False 1
+recalculating...
+['Qh', '2s'] 0.491
+['Qh', '2s'] 0.491
+['Jd', '2h']
+False 1
+recalculating...
+['Jd', '2h'] 0.456
+recalculating...
+['Jd', '2h'] 0.514
+recalculating...
+['Jd', '2h'] 0.362
+['Jd', '2h'] 0.362
+recalculating...
+['Jd', '2h'] 0.228
+['Jd', '2h'] 0.228
+['6d', '3c']
+False 0
+recalculating...
+['6d', '3c'] 0.39
+recalculating...
+['6d', '3c'] 0.206
+recalculating...
+['6d', '3c'] 0.14
+['8d', 'Kh']
+False 1
+recalculating...
+['8d', 'Kh'] 0.574
+recalculating...
+['8d', 'Kh'] 0.426
+recalculating...
+['8d', 'Kh'] 0.346
+['8d', 'Kh'] 0.346
+recalculating...
+['8d', 'Kh'] 0.342
+['Ts', '5c']
+False 1
+recalculating...
+['Ts', '5c'] 0.477
+['Ts', '5c'] 0.477
+['Ac', '3c']
 True 1
 recalculating...
-['Jd', 'Qd'] 0.557
-['5c', '4s']
+['Ac', '3c'] 0.533
+recalculating...
+['Ac', '3c'] 0.897
+['Ac', '3c'] 0.897
+['2d', '9c']
 False 0
 recalculating...
-['5c', '4s'] 0.379
+['2d', '9c'] 0.376
 recalculating...
-['5c', '4s'] 0.32
+['2d', '9c'] 0.256
 recalculating...
-['5c', '4s'] 0.8695
+['2d', '9c'] 0.134
 recalculating...
-['5c', '4s'] 0.9285
-['3d', '7c']
+['2d', '9c'] 0.052
+['3d', '2c']
 False 0
 recalculating...
-['3d', '7c'] 0.3915
-['3d', '7c'] 0.3915
-['6h', 'Kh']
+['3d', '2c'] 0.331
+recalculating...
+['2s', '7c'] 0.259
+recalculating...
+['2s', '7c'] 0.133
+recalculating...
+['2s', '7c'] 0.035
+['5d', 'Qc']
+False 1
+recalculating...
+['5d', 'Qc'] 0.528
+['5d', 'Qc'] 0.528
+['Jh', '7s']
+False 1
+recalculating...
+['Jh', '7s'] 0.485
+recalculating...
+['Ts', '7s'] 0.755
+recalculating...
+['Ts', '7s'] 0.782
+['Ts', '7s'] 0.782
+recalculating...
+['Ts', '7s'] 0.976
+['Ts', '7s'] 0.976
+['3h', 'Th']
 True 1
 recalculating...
-['6h', 'Kh'] 0.551
+['3h', 'Th'] 0.463
+['3h', 'Th'] 0.463
+['3h', 'Th'] 0.463
+['4d', 'Jc']
+False 1
 recalculating...
-['6h', 'Kh'] 0.3675
-['5s', '3h']
+['4d', 'Jc'] 0.5
+recalculating...
+['4d', 'Jc'] 0.321
+recalculating...
+['4d', 'Jc'] 0.28
+['4d', 'Jc'] 0.28
+recalculating...
+['4d', 'Jc'] 0.189
+['4d', 'Jc'] 0.189
+['Ts', '9s']
+True 1
+recalculating...
+['Ts', '9s'] 0.525
+['Ts', '9s'] 0.525
+['6c', '8d']
 False 0
 recalculating...
-['5s', '3h'] 0.3745
-['5s', '3h'] 0.3745
-['2h', '6h']
+['6c', '8d'] 0.465
+recalculating...
+['6c', '8d'] 0.442
+recalculating...
+['6c', '3d'] 0.214
+['6c', '3d'] 0.214
+recalculating...
+['6c', '3d'] 0.023
+['6c', '3d'] 0.023
+['2h', '9d']
+False 0
+recalculating...
+['2h', '9d'] 0.438
+['2h', '9d'] 0.438
+['4c', '7c']
 True 0
 recalculating...
-['2h', '6h'] 0.4035
+['4c', '7c'] 0.414
 recalculating...
-['2h', '6h'] 0.2375
-['5c', 'Qd']
-False 1
+['4c', '7c'] 0.263
 recalculating...
-['5c', 'Qd'] 0.512
-['5c', 'Qd'] 0.512
-['3s', 'Js']
-True 1
-recalculating...
-['3s', 'Js'] 0.4805
-recalculating...
-['3s', 'Js'] 0.3085
-c-betting
-['2h', 'Jd']
-False 1
-recalculating...
-['2h', 'Jd'] 0.463
-['2h', 'Jd'] 0.463
-['4c', 'Kd']
-False 1
-recalculating...
-['4c', 'Kd'] 0.543
-recalculating...
-['4c', 'Kd'] 0.3475
-['8s', '9s']
-True 0
-recalculating...
-['8s', '9s'] 0.4795
-['8s', '9s'] 0.4795
-recalculating...
-['8s', '9s'] 0.5875
-recalculating...
-['8s', '9s'] 0.5655
-['Td', 'Jc']
-False 1
-recalculating...
-['Td', 'Jc'] 0.5325
-recalculating...
-['Td', '5c'] 0.493
-['Th', 'Kd']
-False 1
-recalculating...
-['Th', 'Kd'] 0.6015
-['Th', 'Kd'] 0.6015
-recalculating...
-['Th', 'Kd'] 0.4605
-recalculating...
-['Th', 'Kd'] 0.405
-['9c', '7c']
-True 0
-recalculating...
-['9c', '7c'] 0.499
-recalculating...
-['9c', '7c'] 0.299
-['5c', '7c']
-True 0
-recalculating...
-['5c', '7c'] 0.4575
-['5c', '7c'] 0.4575
-['6h', '9d']
-False 0
-recalculating...
-['6h', '9d'] 0.467
-recalculating...
-['6h', '9d'] 0.388
-['Qs', '2s']
-True 1
-recalculating...
-['Qs', '2s'] 0.488
-['Qs', '2s'] 0.488
-['7s', '5s']
-True 0
-recalculating...
-['7s', '5s'] 0.4635
-recalculating...
-['7s', '5s'] 0.755
-['Qd', '5h']
-False 1
-recalculating...
-['Qd', '5h'] 0.509
-['Qd', '5h'] 0.509
-['Ah', '3h']
-True 1
-recalculating...
-['Ah', '3h'] 0.565
-recalculating...
-['Ah', '3h'] 0.7765
-['8d', 'Tc']
-False 1
-recalculating...
-['8d', 'Tc'] 0.4945
-['8d', 'Tc'] 0.4945
-['Ts', '6d']
-False 1
-recalculating...
-['Ts', '6d'] 0.4805
-recalculating...
-['Ts', '6d'] 0.4745
-['2s', '4s']
-True 0
-recalculating...
-['2s', '4s'] 0.4055
-['2s', '4s'] 0.4055
-['6s', 'Kc']
-False 1
-recalculating...
-['6s', 'Kc'] 0.5455
-recalculating...
-['6s', 'Kc'] 0.4575
-['7d', '2s']
-False 0
-recalculating...
-['7d', '2s'] 0.3785
-['7d', '2s'] 0.3785
-['Ks', '8h']
-False 1
-recalculating...
-['Ks', '8h'] 0.532
-recalculating...
-['5d', '8h'] 0.3555
-['Ac', '4h']
-False 1
-recalculating...
-['Ac', '4h'] 0.524
-['Ac', '4h'] 0.524
-['3d', '7c']
-False 0
-['7c', '3h']
-False 0
-recalculating...
-['7c', '3h'] 0.381
-['7c', '3h'] 0.381
-['9s', '7h']
-False 0
-recalculating...
-['9s', '7h'] 0.484
-recalculating...
-['9s', '7h'] 0.7
-['4d', 'Kd']
-True 1
-recalculating...
-['4d', 'Kd'] 0.5395
-['Ah', '7c']
-False 1
-recalculating...
-['Ah', '7c'] 0.5835
-recalculating...
-['Ah', '7c'] 0.469
-recalculating...
-['Ah', '7c'] 0.5355
-['3d', '6s']
-False 0
-recalculating...
-['3d', '6s'] 0.3875
-['3d', '6s'] 0.3875
-['8c', 'Js']
-False 1
-recalculating...
-['8c', 'Js'] 0.5265
-recalculating...
-['8c', 'Js'] 0.7055
-['7h', '5c']
-False 0
-recalculating...
-['7h', '5c'] 0.4155
-['7h', '5c'] 0.4155
-['3c', '6d']
-False 0
-recalculating...
-['3c', '6d'] 0.403
-recalculating...
-['3c', 'Ad'] 0.391
-recalculating...
-['3c', 'Ad'] 0.458
-recalculating...
-['3c', 'Ad'] 0.348
-['Kh', 'Kc']
-False 3
-recalculating...
-['Kh', 'Kc'] 0.7545
-['Kh', 'Kc'] 0.7545
-recalculating...
-['Kh', 'Kc'] 0.736
-recalculating...
-['Kh', 'Kc'] 0.636
-recalculating...
-['Kh', 'Kc'] 0.393
-['2d', '7c']
-False 0
-recalculating...
-['2d', '7c'] 0.392
-recalculating...
-['2d', '7c'] 0.2135
-['Ac', '8h']
-False 1
-recalculating...
-['Ac', '8h'] 0.623
-['8h', '9h']
-True 0
-recalculating...
-['8h', '9h'] 0.518
-recalculating...
-['2c', '9h'] 0.3105
-['8h', '5c']
-False 0
-recalculating...
-['8h', '5c'] 0.444
-['8h', '5c'] 0.444
-['9d', 'Qc']
-False 1
-['Ts', '6d']
-False 1
-recalculating...
-['Ts', '6d'] 0.4795
-['7s', 'Ah']
-False 1
-recalculating...
-['7s', 'Ah'] 0.59
-recalculating...
-['7s', 'Kc'] 0.7865
-['4c', '2d']
-False 0
-recalculating...
-['4c', '2d'] 0.3725
-['4c', '2d'] 0.3725
-['9d', 'Ac']
-False 1
-['Ts', 'Kc']
-False 1
-recalculating...
-['Ts', 'Kc'] 0.613
-['Ts', 'Kc'] 0.613
-recalculating...
-['Ts', 'Kc'] 0.4635
-recalculating...
-['Ts', 'Kc'] 0.364
-recalculating...
-['Ts', 'Kc'] 0.167
-['Qd', '8h']
-False 1
-recalculating...
-['Qd', '8h'] 0.5495
-recalculating...
-['Qd', '8h'] 0.826
-['Qd', '8h'] 0.826
-recalculating...
-['Qd', '8h'] 0.902
-recalculating...
-['Qd', '8h'] 0.882
-['5h', '2d']
-False 0
-recalculating...
-['5h', '2d'] 0.375
-['8s', 'As']
-True 1
-recalculating...
-['8s', 'As'] 0.588
-recalculating...
-['8s', 'Jd'] 0.352
-['Jc', '6h']
-False 1
-recalculating...
-['Jc', '6h'] 0.475
-['Jc', '6h'] 0.475
-['3d', '9s']
-False 0
-['Qs', 'Ks']
-True 2
-recalculating...
-['Qs', 'Ks'] 0.6205
-['Qs', 'Ks'] 0.6205
-recalculating...
-['Qs', 'Ks'] 0.418
-recalculating...
-['Qs', 'Ks'] 0.2815
-recalculating...
-['Qs', 'Ks'] 0.813
-['3s', '4s']
-True 0
-recalculating...
-['3s', '4s'] 0.385
-recalculating...
-['3s', '4s'] 0.299
-['7c', '3c']
-True 0
-recalculating...
-['7c', '3c'] 0.441
-['7c', '3c'] 0.441
-['5s', 'Ks']
-True 1
-recalculating...
-['5s', 'Ks'] 0.557
-recalculating...
-['5s', 'Ks'] 0.3355
-['Kc', 'Jd']
-False 1
-recalculating...
-['Kc', 'Jd'] 0.6045
-['Kc', 'Jd'] 0.6045
-recalculating...
-['Kc', 'Jd'] 0.4775
-recalculating...
-['Kc', 'Jd'] 0.3985
-recalculating...
-['Kc', 'Jd'] 0.6925
-['Qd', 'Kc']
-False 2
-['3c', '7s']
-False 0
-recalculating...
-['3c', '7s'] 0.371
-['Jd', 'Qs']
-False 1
-recalculating...
-['Jd', 'Qs'] 0.5695
-recalculating...
-['Jd', 'Qs'] 0.445
-recalculating...
-['Jd', 'Qs'] 0.379
-['Jd', 'Qs'] 0.379
-recalculating...
-['Jd', 'Qs'] 0.3765
-['9d', 'Jh']
-False 1
-recalculating...
-['9d', 'Jh'] 0.5175
-['9d', 'Jh'] 0.5175
-['Tc', '6h']
-False 1
-recalculating...
-['Tc', '6h'] 0.4525
-['Ah', '3d']
-False 1
-recalculating...
-['Ah', '3d'] 0.532
-['Ah', '3d'] 0.532
-['5d', 'Ts']
-False 1
-recalculating...
-['5d', 'Ts'] 0.469
-recalculating...
-['5d', 'Ts'] 0.371
-recalculating...
-['5d', 'Ts'] 0.6865
-['3h', '9d']
-False 0
-recalculating...
-['3h', '9d'] 0.43
-['3h', '9d'] 0.43
-['5c', '5d']
-False 3
-recalculating...
-['5c', '5d'] 0.549
-recalculating...
-['5c', '5d'] 0.5395
-recalculating...
-['5c', '5d'] 0.608
-['Qh', '8d']
-False 1
-recalculating...
-['Qh', '8d'] 0.5445
-['Qh', '8d'] 0.5445
-['Qc', '3h']
-False 1
-['Qs', '3s']
-True 1
-recalculating...
-['Qs', '3s'] 0.4885
-['Qs', '3s'] 0.4885
-['Th', '3h']
-True 1
+['4c', '7c'] 0.135
+['4c', '7c'] 0.135
 ['8c', 'Ac']
 True 1
 recalculating...
-['8c', 'Ac'] 0.605
-['8c', 'Ac'] 0.605
-recalculating...
-['8c', 'Ac'] 0.5775
-recalculating...
-['8c', 'Ac'] 0.597
-recalculating...
-['8c', 'Ac'] 0.449
-['7d', 'Ah']
+['8c', 'Ac'] 0.587
+['8c', 'Ac'] 0.587
+['Td', '5s']
 False 1
 recalculating...
-['7d', 'Ah'] 0.5875
+['Td', '5s'] 0.436
 recalculating...
-['7d', 'Ah'] 0.5565
+['Td', '5s'] 0.514
 recalculating...
-['7d', 'Ks'] 0.812
+['Td', '9c'] 0.452
+['Td', '9c'] 0.452
 recalculating...
-['7d', 'Ks'] 0.8315
-['5s', 'Tc']
-False 1
-recalculating...
-['5s', 'Tc'] 0.469
-['5s', 'Tc'] 0.469
-['3c', '5h']
-False 0
-recalculating...
-['3c', '5h'] 0.3845
-recalculating...
-['3c', '5h'] 0.235
-['Qd', '3d']
+['Td', '9c'] 0.394
+['Td', '9c'] 0.394
+['5d', 'Jd']
 True 1
 recalculating...
-['Qd', '3d'] 0.4725
-['Jd', 'Ks']
-False 1
-recalculating...
-['Jd', 'Ks'] 0.613
-recalculating...
-['Jd', 'Ks'] 0.7815
-['6d', '4c']
+['5d', 'Jd'] 0.57
+['5d', 'Jd'] 0.57
+['6s', '7c']
 False 0
 recalculating...
-['6d', '4c'] 0.3765
-['6d', '4c'] 0.3765
-['5d', '8d']
-True 0
+['6s', '7c'] 0.45
 recalculating...
-['5d', '8d'] 0.456
-['5d', '8d'] 0.456
-['Jd', 'Ac']
+['6s', '7c'] 0.273
+recalculating...
+['6s', '7c'] 0.276
+['6s', '7c'] 0.276
+recalculating...
+['6s', '7c'] 0.052
+['6s', '7c'] 0.052
+['7s', '5d']
+False 0
+recalculating...
+['7s', '5d'] 0.403
+['7s', '5d'] 0.403
+['Td', '6d']
+True 1
+recalculating...
+['Td', '6d'] 0.459
+recalculating...
+['Td', '6d'] 0.408
+recalculating...
+['Td', '6d'] 0.237
+['Td', '6d'] 0.237
+recalculating...
+['Td', '6d'] 0.148
+['Jd', 'As']
 False 1
 recalculating...
-['Jd', 'Ac'] 0.6325
-['Jd', 'Ac'] 0.6325
+['Jd', 'As'] 0.613
+['Jd', 'As'] 0.613
 recalculating...
-['Jd', 'Ac'] 0.6015
+['Jd', 'As'] 0.544
 recalculating...
-['Jd', 'Ac'] 0.7625
+['Jd', 'As'] 0.446
 recalculating...
-['Jd', 'Ac'] 0.963
+['Jd', 'As'] 0.461
+['5h', '7c']
+False 0
+['Qs', '2h']
+False 1
+recalculating...
+['Qs', '2h'] 0.497
+['Ad', '9d']
+True 1
+['Kc', '3h']
+False 1
+recalculating...
+['Kc', '3h'] 0.559
+['4c', 'Qc']
+True 1
+['Ts', '8d']
+False 1
+recalculating...
+['Ts', '8d'] 0.518
+['Ac', '2d']
+False 1
+['9d', '3d']
+True 0
+recalculating...
+['9d', '3d'] 0.455
+['Kc', '5c']
+True 1
+['9c', '3d']
+False 0
+recalculating...
+['9c', '3d'] 0.432
+['Ac', 'Jc']
+True 1
+['5s', '9s']
+True 0
+recalculating...
+['5s', '9s'] 0.413
+['Td', 'Ts']
+False 3
+['2c', '8s']
+False 0
+recalculating...
+['2c', '8s'] 0.412
+['9c', '3d']
+False 0
+['Ac', 'Kh']
+False 2
+recalculating...
+['Ac', 'Kh'] 0.625
+['Qc', 'Qd']
+False 3
+['9c', '6c']
+True 0
+recalculating...
+['9c', '6c'] 0.449
+['Qs', '2d']
+False 1
+['9d', '7s']
+False 0
+recalculating...
+['9d', '7s'] 0.513
+['5h', 'Th']
+True 1
+['As', 'Qc']
+False 2
+recalculating...
+['As', 'Qc'] 0.608
+['Tc', 'Td']
+False 3
+['3c', '7d']
+False 0
+recalculating...
+['3c', '7d'] 0.414
+['7c', '3c']
+True 0
+['5s', '3d']
+False 0
+recalculating...
+['5s', '3d'] 0.399
+['7h', '7c']
+False 3
+['9h', '2d']
+False 0
+recalculating...
+['9h', '2d'] 0.438
+['9s', '8s']
+True 0
+['7d', '5c']
+False 0
+recalculating...
+['7d', '5c'] 0.474
+['Qc', 'Ac']
+True 2
+['Ac', 'Ad']
+False 3
+recalculating...
+['Ac', 'Ad'] 0.801
+['5d', 'Jd']
+True 1
+['7c', 'Ks']
+False 1
+recalculating...
+['7c', 'Ks'] 0.51
+['8c', 'Ad']
+False 1
+['8h', '5s']
+False 0
+recalculating...
+['8h', '5s'] 0.419
+['2s', 'Ts']
+True 1
+['Jc', 'Th']
+False 1
+recalculating...
+['Jc', 'Th'] 0.537
+['6c', '3s']
+False 0
+['Td', 'As']
+False 1
+recalculating...
+['Td', 'As'] 0.632
+['As', '2d']
+False 1
+['7c', 'Tc']
+True 1
+recalculating...
+['7c', 'Tc'] 0.477
+['Ts', '9s']
+True 1
+['Ad', '8s']
+False 1
+recalculating...
+['Ad', '8s'] 0.561
+['Ah', '8s']
+False 1
+['5c', '3d']
+False 0
+recalculating...
+['5c', '3d'] 0.362
+['4s', 'Qh']
+False 1
+['5c', 'Qs']
+False 1
+recalculating...
+['5c', 'Qs'] 0.499
+['8h', 'Ts']
+False 1
+['7s', '2c']
+False 0
+recalculating...
+['7s', '2c'] 0.384
+['Ah', '7d']
+False 1
+['9c', '7h']
+False 0
+recalculating...
+['9c', '7h'] 0.463
+['Js', '2h']
+False 1
+['Tc', 'As']
+False 1
+recalculating...
+['Tc', 'As'] 0.607
+['7c', 'Jc']
+True 1
+['8d', '4d']
+True 0
+recalculating...
+['8d', '4d'] 0.448
+['7h', '7s']
+False 3
+['4h', '6s']
+False 0
+recalculating...
+['4h', '6s'] 0.388
+['5c', 'Kh']
+False 1
+['Qd', 'Th']
+False 1
+recalculating...
+['Qd', 'Th'] 0.568
+['Ah', '3h']
+True 1
+['Kh', '4h']
+True 1
+recalculating...
+['Kh', '4h'] 0.531
+['4h', '2h']
+True 0
+['9h', '8d']
+False 0
+recalculating...
+['9h', '8d'] 0.464
+['4c', '9s']
+False 0
+['6h', '9s']
+False 0
+recalculating...
+['6h', '9s'] 0.457
+['Qc', '3c']
+True 1
+['Td', '6s']
+False 1
+recalculating...
+['Td', '6s'] 0.498
+['2c', 'Jc']
+True 1
+['Qs', '7c']
+False 1
+recalculating...
+['Qs', '7c'] 0.533
+['3d', '6s']
+False 0
+['Qh', 'Js']
+False 1
+recalculating...
+['Qh', 'Js'] 0.564
+['5h', 'Kc']
+False 1
+['Jd', 'Kd']
+True 1
+recalculating...
+['Jd', 'Kd'] 0.587
+['Qd', '6s']
+False 1
+['6c', '4h']
+False 0
+recalculating...
+['6c', '4h'] 0.395
+['Td', 'Js']
+False 1
+['2d', '2h']
+False 3
+recalculating...
+['2d', '2h'] 0.493
+['Ac', '5h']
+False 1
+['2c', 'Ac']
+True 1
+recalculating...
+['2c', 'Ac'] 0.565
+['Qh', '7h']
+True 1
+['9c', 'Qc']
+True 1
+recalculating...
+['9c', 'Qc'] 0.593
+['4s', 'Td']
+False 1
+['Ac', 'Tc']
+True 1
+recalculating...
+['Ac', 'Tc'] 0.645
+['6c', '5s']
+False 0
+['3s', '2h']
+False 0
+recalculating...
+['3s', '2h'] 0.338
+['8h', '4h']
+True 0
+['2s', 'Ad']
+False 1
+recalculating...
+['2s', 'Ad'] 0.555
+['4d', '6d']
+True 0
+['3h', '6h']
+True 0
+recalculating...
+['3h', '6h'] 0.414
+['Js', '8s']
+True 1
+['8d', '7s']
+False 0
+recalculating...
+['8d', '7s'] 0.451
+['Qc', '9h']
+False 1
+['3h', '3s']
+False 3
+recalculating...
+['3h', '3s'] 0.485
+['Qd', '9c']
+False 1
+['2d', 'Qc']
+False 1
+recalculating...
+['2d', 'Qc'] 0.464
+['Js', '5d']
+False 1
+['6d', '2s']
+False 0
+recalculating...
+['6d', '2s'] 0.357
+['Jd', 'Ac']
+False 1
+['7h', '5h']
+True 0
+recalculating...
+['7h', '5h'] 0.422
+['7s', 'Qd']
+False 1
+['3h', 'As']
+False 1
+recalculating...
+['3h', 'As'] 0.569
+['3h', 'Th']
+True 1
+['Qd', '2c']
+False 1
+recalculating...
+['Qd', '2c'] 0.479
+['3h', '9s']
+False 0
+['9d', 'Js']
+False 1
+recalculating...
+['9d', 'Js'] 0.495
+['3d', '7s']
+False 0
+['Ad', '5d']
+True 1
+recalculating...
+['Ad', '5d'] 0.576
+['5c', 'Jh']
+False 1
+['4d', '8s']
+False 0
+recalculating...
+['4d', '8s'] 0.401
+['Qd', '2h']
+False 1
+['Kd', '5h']
+False 1
+recalculating...
+['Kd', '5h'] 0.527
+['9c', '2d']
+False 0
+['8d', '5c']
+False 0
+recalculating...
+['8d', '5c'] 0.43
+['6h', '3c']
+False 0
+['Qc', '9s']
+False 1
+recalculating...
+['Qc', '9s'] 0.524
+['4s', 'Tc']
+False 1
+['4s', 'Kd']
+False 1
+recalculating...
+['4s', 'Kd'] 0.511
+['Qc', 'Jh']
+False 1
+['4s', '6s']
+True 0
+recalculating...
+['4s', '6s'] 0.419
+['As', '6c']
+False 1
+['Qs', 'Qh']
+False 3
+recalculating...
+['Qs', 'Qh'] 0.702
+['8c', '3c']
+True 0
+['Ac', 'Ah']
+False 3
+recalculating...
+['Ac', 'Ah'] 0.779
+['3s', 'As']
+True 1
+['7s', '2s']
+True 0
+recalculating...
+['7s', '2s'] 0.414
+['Qh', '4h']
+True 1
+['4d', '3h']
+False 0
+recalculating...
+['4d', '3h'] 0.361
+['Tc', '6c']
+True 1
+['5s', '8d']
+False 0
+recalculating...
+['5s', '8d'] 0.45
+['Ad', '3c']
+False 1
+['Js', 'Ks']
+True 1
+recalculating...
+['Js', 'Ks'] 0.587
+['Kh', '7s']
+False 1
+['9d', 'Ts']
+False 1
+recalculating...
+['9d', 'Ts'] 0.518
+['Tc', 'Qd']
+False 1
+['Qh', 'Ah']
+True 2
+recalculating...
+['Qh', 'Ah'] 0.662
+['3d', '4s']
+False 0
+['Td', 'Js']
+False 1
+recalculating...
+['Td', 'Js'] 0.549
+['Qc', '6s']
+False 1
+['Ac', '6d']
+False 1
+recalculating...
+['Ac', '6d'] 0.548
+['3h', 'Jh']
+True 1
+['8c', '5d']
+False 0
+recalculating...
+['8c', '5d'] 0.392
+['5d', '6d']
+True 0
+['Kc', 'Kh']
+False 3
+recalculating...
+['Kc', 'Kh'] 0.797
+['Qd', '6h']
+False 1
+['2c', '7c']
+True 0
+recalculating...
+['2c', '7c'] 0.396
+['Kh', '9d']
+False 1
+['2d', 'Kh']
+False 1
+recalculating...
+['2d', 'Kh'] 0.49
+['3c', 'As']
+False 1
+['As', 'Qh']
+False 2
+recalculating...
+['As', 'Qh'] 0.608
+['3c', '6c']
+True 0
+['4s', 'Ad']
+False 1
+recalculating...
+['4s', 'Ad'] 0.568
+['2h', 'Jh']
+True 1
+['2c', '3c']
+True 0
+recalculating...
+['2c', '3c'] 0.392
+['6d', 'Jc']
+False 1
+['6c', '8c']
+True 0
+recalculating...
+['6c', '8c'] 0.446
+['9c', 'Jd']
+False 1
+['6h', 'Jd']
+False 1
+recalculating...
+['6h', 'Jd'] 0.457
+['Ac', '4c']
+True 1
+['6d', 'Kc']
+False 1
+recalculating...
+['6d', 'Kc'] 0.518
+['Qh', '2s']
+False 1
+['7s', '9s']
+True 0
+recalculating...
+['7s', '9s'] 0.475
+['Jh', '6d']
+False 1
+['4h', 'Ah']
+True 1
+recalculating...
+['4h', 'Ah'] 0.572
+['8d', 'Ah']
+False 1
+['Ks', 'Td']
+False 1
+recalculating...
+['Ks', 'Td'] 0.602
+['Qd', '5h']
+False 1
+['9s', '7h']
+False 0
+recalculating...
+['9s', '7h'] 0.468
+['2d', '3d']
+True 0
+['Ts', 'Th']
+False 3
+recalculating...
+['Ts', 'Th'] 0.74
+['8d', 'Th']
+False 1
+['4c', 'Tc']
+True 1
+recalculating...
+['4c', 'Tc'] 0.446
+['6c', '9s']
+False 0
+['3c', 'Ah']
+False 1
+recalculating...
+['3c', 'Ah'] 0.55
+['9d', 'Ac']
+False 1
+['Ks', '6h']
+False 1
+recalculating...
+['Ks', '6h'] 0.532
+['9d', 'As']
+False 1
+['5h', '3h']
+True 0
+recalculating...
+['5h', '3h'] 0.412
+['Qc', '9c']
+True 1
+['9c', '8c']
+True 0
+recalculating...
+['9c', '8c'] 0.494
+['Kc', 'Ts']
+False 1
+['Qh', 'Ac']
+False 2
+recalculating...
+['Qh', 'Ac'] 0.671
+['2c', '5d']
+False 0
+['Kd', 'Ks']
+False 3
+recalculating...
+['Kd', 'Ks'] 0.747
+['7d', '6h']
+False 0
+['6c', '2d']
+False 0
+recalculating...
+['6c', '2d'] 0.349
+['2s', '7h']
+False 0
+['2c', '4s']
+False 0
+recalculating...
+['2c', '4s'] 0.351
+['2c', '7h']
+False 0
+['7s', '6h']
+False 0
+recalculating...
+['7s', '6h'] 0.451
+['Ad', '7c']
+False 1
+['Ah', '5c']
+False 1
+recalculating...
+['Ah', '5c'] 0.547
+['6c', '2s']
+False 0
+['9h', 'Qc']
+False 1
+recalculating...
+['9h', 'Qc'] 0.556
+['Ks', '2d']
+False 1
+['5s', 'Qc']
+False 1
+recalculating...
+['5s', 'Qc'] 0.498
+['2d', '7h']
+False 0
+['Ks', '8h']
+False 1
+recalculating...
+['Ks', '8h'] 0.563
+['As', 'Js']
+True 1
+['Ah', 'Tc']
+False 1
+recalculating...
+['Ah', 'Tc'] 0.607
+['2d', '9s']
+False 0
+['9c', '9d']
+False 3
+recalculating...
+['9c', '9d'] 0.67
+['9c', 'Ks']
+False 1
+['Ah', '6h']
+True 1
+recalculating...
+['Ah', '6h'] 0.594
+['7h', 'Kd']
+False 1
+['7s', '5s']
+True 0
+recalculating...
+['7s', '5s'] 0.418
+['7h', 'Ts']
+False 1
+['Kh', '7d']
+False 1
+recalculating...
+['Kh', '7d'] 0.561
+['7d', '7c']
+False 3
+['Jc', 'Jd']
+False 3
+recalculating...
+['Jc', 'Jd'] 0.699
+['2s', '5s']
+True 0
+['5h', 'Ks']
+False 1
+recalculating...
+['5h', 'Ks'] 0.52
+['9c', '6h']
+False 0
+['Qd', '3c']
+False 1
+recalculating...
+['Qd', '3c'] 0.501
+['7s', '6c']
+False 0
+['9d', 'Tc']
+False 1
+recalculating...
+['9d', 'Tc'] 0.537
+['Kc', 'Jc']
+True 1
+['4s', '5h']
+False 0
+recalculating...
+['4s', '5h'] 0.399
+['4h', '6s']
+False 0
+['7s', 'Tc']
+False 1
+recalculating...
+['7s', 'Tc'] 0.494
+['9c', 'Kc']
+True 1
+['8s', '4h']
+False 0
+recalculating...
+['8s', '4h'] 0.457
+['As', '9d']
+False 1
+['4c', '4s']
+False 3
+recalculating...
+['4c', '4s'] 0.524
+['2d', '3c']
+False 0
+['Jh', '6s']
+False 1
+recalculating...
+['Jh', '6s'] 0.464
+['Kh', 'Qh']
+True 2
+['8h', '3c']
+False 0
+recalculating...
+['8h', '3c'] 0.401
+['Ac', 'Th']
+False 1
+['Jc', 'As']
+False 1
+recalculating...
+['Jc', 'As'] 0.63
+['Ac', 'Qc']
+True 2
+['8d', 'Jc']
+False 1
+recalculating...
+['8d', 'Jc'] 0.546
+['9c', '5s']
+False 0
+['As', '2c']
+False 1
+recalculating...
+['As', '2c'] 0.588
+['8s', '7s']
+True 0
+['Th', '2c']
+False 1
+recalculating...
+['Th', '2c'] 0.421
+['As', '2s']
+True 1
+['9s', 'Qh']
+False 1
+recalculating...
+['9s', 'Qh'] 0.539
+['5h', '7c']
+False 0
+['Kh', 'Td']
+False 1
+recalculating...
+['Kh', 'Td'] 0.625
+['2d', 'Ks']
+False 1
+['4d', '3d']
+True 0
+recalculating...
+['4d', '3d'] 0.395
+['Ks', 'Th']
+False 1
+['5h', 'Tc']
+False 1
+recalculating...
+['5h', 'Tc'] 0.433
+['6d', '9h']
+False 0
+['9c', '4s']
+False 0
+recalculating...
+['9c', '4s'] 0.406
+['Jd', 'Th']
+False 1
+['Qd', 'Qs']
+False 3
+recalculating...
+['Qd', 'Qs'] 0.755
+['5d', 'Jc']
+False 1
+['Kh', '8s']
+False 1
+recalculating...
+['Kh', '8s'] 0.518
+['9h', 'Jc']
+False 1
+['Ks', '3c']
+False 1
+recalculating...
+['Ks', '3c'] 0.534
+['8h', '3d']
+False 0
+['Th', 'Kd']
+False 1
+recalculating...
+['Th', 'Kd'] 0.576
+['Kd', '8s']
+False 1
+['6s', '2c']
+False 0
+recalculating...
+['6s', '2c'] 0.354
+['8d', '9s']
+False 0
+['6h', '2s']
+False 0
+recalculating...
+['6h', '2s'] 0.356
+['Qs', '7d']
+False 1
+['Ah', 'Qd']
+False 2
+recalculating...
+['Ah', 'Qd'] 0.641
+['Qc', '3c']
+True 1
+['2d', '2c']
+False 3
+recalculating...
+['2d', '2c'] 0.48
+['4s', 'Kd']
+False 1
+['Td', '4h']
+False 1
+recalculating...
+['Td', '4h'] 0.438
+['Ts', 'Kh']
+False 1
+['Kc', 'Jc']
+True 1
+recalculating...
+['Kc', 'Jc'] 0.614
+['3s', '7s']
+True 0
+['4c', 'Qd']
+False 1
+recalculating...
+['4c', 'Qd'] 0.468
+['7d', '3h']
+False 0
+['7c', 'Th']
+False 1
+recalculating...
+['7c', 'Th'] 0.482
+['6c', 'Kc']
+True 1
+['Kh', 'Qs']
+False 2
+recalculating...
+['Kh', 'Qs'] 0.609
+['Qd', 'Ks']
+False 2
+['6h', '8c']
+False 0
+recalculating...
+['6h', '8c'] 0.454
+['4d', 'Ts']
+False 1
+['3s', '5s']
+True 0
+recalculating...
+['3s', '5s'] 0.408
+['Kh', '7c']
+False 1
+['2d', 'Qc']
+False 1
+recalculating...
+['2d', 'Qc'] 0.495
+['4d', 'Js']
+False 1
+['Qd', 'Qc']
+False 3
+recalculating...
+['Qd', 'Qc'] 0.729
+['Qh', 'Jh']
+True 1
+['8h', '4h']
+True 0
+recalculating...
+['8h', '4h'] 0.417
+['Jd', 'Qc']
+False 1
+['Qd', 'Qc']
+False 3
+recalculating...
+['Qd', 'Qc'] 0.743
+['2c', '3h']
+False 0
+['Qc', '5h']
+False 1
+recalculating...
+['Qc', '5h'] 0.501
+['Kh', '5c']
+False 1
+['Th', 'Ks']
+False 1
+recalculating...
+['Th', 'Ks'] 0.547
+['Jh', '2h']
+True 1
+['3c', 'Ts']
+False 1
+recalculating...
+['3c', 'Ts'] 0.443
+['Th', '3c']
+False 1
+['3c', '7h']
+False 0
+recalculating...
+['3c', '7h'] 0.36
+['8s', '4c']
+False 0
+['9s', '8c']
+False 0
+recalculating...
+['9s', '8c'] 0.495
+['Qh', '7s']
+False 1
+['Qh', '7d']
+False 1
+recalculating...
+['Qh', '7d'] 0.528
+['Tc', 'Kh']
+False 1
+['8d', '3d']
+True 0
+recalculating...
+['8d', '3d'] 0.429
+['7h', '6h']
+True 0
+['3s', '6h']
+False 0
+recalculating...
+['3s', '6h'] 0.376
+['6h', '3s']
+False 0
+['3d', 'Tc']
+False 1
+recalculating...
+['3d', 'Tc'] 0.461
+['8h', '2d']
+False 0
+['6c', 'Kh']
+False 1
+recalculating...
+['6c', 'Kh'] 0.547
+['Qd', 'Jc']
+False 1
+['9c', 'Qd']
+False 1
+recalculating...
+['9c', 'Qd'] 0.542
+['3h', '8s']
+False 0
+['2d', '7h']
+False 0
+recalculating...
+['2d', '7h'] 0.365
+['2h', 'Ks']
+False 1
+['6c', 'Qc']
+True 1
+recalculating...
+['6c', 'Qc'] 0.547
+['Qs', 'Tc']
+False 1
+['6d', '8h']
+False 0
+recalculating...
+['6d', '8h'] 0.446
+['Js', 'Qc']
+False 1
+['7s', '7d']
+False 3
+recalculating...
+['7s', '7d'] 0.607
+['4h', '4s']
+False 3
+['Jd', '2h']
+False 1
+recalculating...
+['Jd', '2h'] 0.462
+['9c', '5s']
+False 0
+['6c', '5h']
+False 0
+recalculating...
+['6c', '5h'] 0.448
+['Kh', '3h']
+True 1
+['7s', '6d']
+False 0
+recalculating...
+['7s', '6d'] 0.494
+['8d', '3c']
+False 0
+['9s', 'Ah']
+False 1
+recalculating...
+['9s', 'Ah'] 0.6
+['Js', '8s']
+True 1
+['Tc', '2s']
+False 1
+recalculating...
+['Tc', '2s'] 0.428
+['Kd', 'As']
+False 2
+['Kh', '4h']
+True 1
+recalculating...
+['Kh', '4h'] 0.502
+['Qs', 'Jh']
+False 1
+['7c', '6c']
+True 0
+recalculating...
+['7c', '6c'] 0.452
+['Qc', '8s']
+False 1
+['2d', '9d']
+True 0
+recalculating...
+['2d', '9d'] 0.425
+['2d', 'Tc']
+False 1
+['Ad', 'Th']
+False 1
+recalculating...
+['Ad', 'Th'] 0.606
+['9h', 'Qc']
+False 1
+['6d', '9h']
+False 0
+recalculating...
+['6d', '9h'] 0.421
+['8d', '7h']
+False 0
+['7s', '8h']
+False 0
+recalculating...
+['7s', '8h'] 0.484
+['6h', '4s']
+False 0
+['As', '8h']
+False 1
+recalculating...
+['As', '8h'] 0.569
+['9c', '6s']
+False 0
+['8d', '4c']
+False 0
+recalculating...
+['8d', '4c'] 0.384
+['Kd', 'Ks']
+False 3
+['Kh', '6d']
+False 1
+recalculating...
+['Kh', '6d'] 0.547
+['8c', '8d']
+False 3
+['3d', '4d']
+True 0
+recalculating...
+['3d', '4d'] 0.422
+['3d', '9h']
+False 0
+['Kd', '2s']
+False 1
+recalculating...
+['Kd', '2s'] 0.508
+['5d', 'Td']
+True 1
+['Tc', '4d']
+False 1
+recalculating...
+['Tc', '4d'] 0.471
+['Jh', 'Kc']
+False 1
+['6h', '7c']
+False 0
+recalculating...
+['6h', '7c'] 0.436
+['5h', 'Ts']
+False 1
+['7h', '4d']
+False 0
+recalculating...
+['7h', '4d'] 0.426
+['6s', '2h']
+False 0
+['3d', 'Qs']
+False 1
+recalculating...
+['3d', 'Qs'] 0.518
+['9h', 'Kh']
+True 1
+['Qs', 'Kc']
+False 2
+recalculating...
+['Qs', 'Kc'] 0.569
+['4h', 'Kd']
+False 1
+['8s', '3d']
+False 0
+recalculating...
+['8s', '3d'] 0.413
+['Td', '4c']
+False 1
+['Jh', '7c']
+False 1
+recalculating...
+['Jh', '7c'] 0.503
+['5s', 'Td']
+False 1
+['7h', 'Tc']
+False 1
+recalculating...
+['7h', 'Tc'] 0.488
+['8s', '7s']
+True 0
+['Ts', 'Kh']
+False 1
+recalculating...
+['Ts', 'Kh'] 0.603
+['Js', 'Ad']
+False 1
+['8d', '6c']
+False 0
+recalculating...
+['8d', '6c'] 0.455
+['3d', '8h']
+False 0
+['Qh', 'Kh']
+True 2
+recalculating...
+['Qh', 'Kh'] 0.592
+['Kc', 'Qd']
+False 2
+['4d', 'Kc']
+False 1
+recalculating...
+['4d', 'Kc'] 0.502
+['8d', '6d']
+True 0
+['9h', '4h']
+True 0
+recalculating...
+['9h', '4h'] 0.43
+['4h', '4s']
+False 3
+['Jd', '3c']
+False 1
+recalculating...
+['Jd', '3c'] 0.458
+['Tc', '6c']
+True 1
+['9d', '3h']
+False 0
+recalculating...
+['9d', '3h'] 0.429
+['2c', 'Qs']
+False 1
+['8h', '3c']
+False 0
+recalculating...
+['8h', '3c'] 0.424
+['3h', '3s']
+False 3
+['4s', '4h']
+False 3
+recalculating...
+['4s', '4h'] 0.523
+['9d', '8d']
+True 0
+['Js', 'As']
+True 1
+recalculating...
+['Js', 'As'] 0.623
+['Qs', '3d']
+False 1
+['5s', '5h']
+False 3
+recalculating...
+['5s', '5h'] 0.561
+['5h', 'Ts']
+False 1
+['3h', '5s']
+False 0
+recalculating...
+['3h', '5s'] 0.419
+['Ah', 'Qd']
+False 2
+['7c', '7s']
+False 3
+recalculating...
+['7c', '7s'] 0.603
+['As', 'Jh']
+False 1
+['Qd', '3c']
+False 1
+recalculating...
+['Qd', '3c'] 0.494
+['7d', '8h']
+False 0
+['Td', '7c']
+False 1
+recalculating...
+['Td', '7c'] 0.503
+['6s', '7h']
+False 0
+['Qs', 'Jc']
+False 1
+recalculating...
+['Qs', 'Jc'] 0.568
+['3s', '2d']
+False 0
+['5c', '7s']
+False 0
+recalculating...
+['5c', '7s'] 0.427
+['4h', '6h']
+True 0
+['Jc', '4s']
+False 1
+recalculating...
+['Jc', '4s'] 0.486
+['Qs', '5c']
+False 1
+['Qd', 'Kc']
+False 2
+recalculating...
+['Qd', 'Kc'] 0.591
+['Jd', '2s']
+False 1
+['6c', 'Qs']
+False 1
+recalculating...
+['6c', 'Qs'] 0.521
+['4s', '4h']
+False 3
+['Ad', 'Kc']
+False 2
+recalculating...
+['Ad', 'Kc'] 0.662
+['7c', '5d']
+False 0
+['3s', '3h']
+False 3
+recalculating...
+['3s', '3h'] 0.5
+['5h', 'Kc']
+False 1
+['4h', '3d']
+False 0
+recalculating...
+['4h', '3d'] 0.377
+['5s', '5c']
+False 3
+['4c', '6c']
+True 0
+recalculating...
+['4c', '6c'] 0.423
+['3d', '9h']
+False 0
+['Kh', 'Qc']
+False 2
+recalculating...
+['Kh', 'Qc'] 0.62
+['4c', 'Jh']
+False 1
+['Jc', '4d']
+False 1
+recalculating...
+['Jc', '4d'] 0.443
+['Qc', '7c']
+True 1
+['Jh', '9h']
+True 1
+recalculating...
+['Jh', '9h'] 0.551
+['5h', '5s']
+False 3
+['6h', '7h']
+True 0
+recalculating...
+['6h', '7h'] 0.417
+['7h', 'Tc']
+False 1
+['8h', 'Ts']
+False 1
+recalculating...
+['8h', 'Ts'] 0.483
+['5h', '5c']
+False 3
+['6c', '6s']
+False 3
+recalculating...
+['6c', '6s'] 0.598
+['8h', 'Ad']
+False 1
+['Kh', 'Qc']
+False 2
+recalculating...
+['Kh', 'Qc'] 0.59
+['6c', 'Kc']
+True 1
+['Th', '3s']
+False 1
+recalculating...
+['Th', '3s'] 0.445
+['5c', 'Kd']
+False 1
+['2h', 'Td']
+False 1
+recalculating...
+['2h', 'Td'] 0.436
+['Qd', '5h']
+False 1
+['2s', '4h']
+False 0
+recalculating...
+['2s', '4h'] 0.327
+['7s', '2d']
+False 0
+['5c', 'Ah']
+False 1
+recalculating...
+['5c', 'Ah'] 0.583
+['2c', '9s']
+False 0
+['Ks', '9c']
+False 1
+recalculating...
+['Ks', '9c'] 0.562
+['Qh', '9c']
+False 1
+['9s', '4c']
+False 0
+recalculating...
+['9s', '4c'] 0.458
+['4h', '7h']
+True 0
+['4c', 'Kd']
+False 1
+recalculating...
+['4c', 'Kd'] 0.504
+['4s', '5s']
+True 0
+['6s', '3s']
+True 0
+recalculating...
+['6s', '3s'] 0.394
+['4s', '6c']
+False 0
+['3h', 'Qc']
+False 1
+recalculating...
+['3h', 'Qc'] 0.466
+['Tc', '8c']
+True 1
+['Qc', '2s']
+False 1
+recalculating...
+['Qc', '2s'] 0.491
+['Kc', '3c']
+True 1
+['7s', '8s']
+True 0
+recalculating...
+['7s', '8s'] 0.436
+['7c', 'As']
+False 1
+['Qh', 'Ad']
+False 2
+recalculating...
+['Qh', 'Ad'] 0.6
+['8c', '6h']
+False 0
+['6h', '3s']
+False 0
+recalculating...
+['6h', '3s'] 0.372
+['8c', '7s']
+False 0
+['Qc', '2c']
+True 1
+recalculating...
+['Qc', '2c'] 0.517
+['Th', '2s']
+False 1
+['Tc', '2s']
+False 1
+recalculating...
+['Tc', '2s'] 0.462
+['Qh', 'Td']
+False 1
+['4c', 'Jh']
+False 1
+recalculating...
+['4c', 'Jh'] 0.478
+['6c', 'Ad']
+False 1
+['3c', 'Qc']
+True 1
+recalculating...
+['3c', 'Qc'] 0.512
+['3c', '9s']
+False 0
+['Kd', '2d']
+True 1
+recalculating...
+['Kd', '2d'] 0.536
+['9h', 'Qs']
+False 1
+['4h', '5d']
+False 0
+recalculating...
+['4h', '5d'] 0.416
+['3d', '2h']
+False 0
+['Jc', '3c']
+True 1
+recalculating...
+['Jc', '3c'] 0.481
+['9d', 'Jc']
+False 1
+['Qh', '4d']
+False 1
+recalculating...
+['Qh', '4d'] 0.527
+['7s', 'Th']
+False 1
+['3s', '7h']
+False 0
+recalculating...
+['3s', '7h'] 0.393
+['3s', '4d']
+False 0
+['4h', 'Qc']
+False 1
+recalculating...
+['4h', 'Qc'] 0.479
+['Td', '4d']
+True 1
+['8h', '5s']
+False 0
+recalculating...
+['8h', '5s'] 0.462
+['5d', '4h']
+False 0
+['9c', '7h']
+False 0
+recalculating...
+['9c', '7h'] 0.467
+['5d', 'Qh']
+False 1
+['9h', '3c']
+False 0
+recalculating...
+['9h', '3c'] 0.452
+['9c', 'Th']
+False 1
+['7c', 'Ks']
+False 1
+recalculating...
+['7c', 'Ks'] 0.545
+['5d', '3s']
+False 0
+['Kd', '7d']
+True 1
+recalculating...
+['Kd', '7d'] 0.576
+['3s', '6c']
+False 0
+['9c', '6d']
+False 0
+recalculating...
+['9c', '6d'] 0.463
+['7d', '6h']
+False 0
+['Jc', '8h']
+False 1
+recalculating...
+['Jc', '8h'] 0.504
+['9c', 'Ks']
+False 1
+['2h', 'Qc']
+False 1
+recalculating...
+['2h', 'Qc'] 0.471
+['Ah', 'Kd']
+False 2
+['9d', '4c']
+False 0
+recalculating...
+['9d', '4c'] 0.441
+['Qd', 'Jd']
+True 1
+['6s', 'Ad']
+False 1
+recalculating...
+['6s', 'Ad'] 0.526
+['3s', '3h']
+False 3
+['6s', '8h']
+False 0
+recalculating...
+['6s', '8h'] 0.437
+['9h', 'Kh']
+True 1
+['6c', '3s']
+False 0
+recalculating...
+['6c', '3s'] 0.38
+['2c', '9h']
+False 0
+['3c', '6c']
+True 0
+recalculating...
+['3c', '6c'] 0.406
+['Ad', '9c']
+False 1
+['4c', '5h']
+False 0
+recalculating...
+['4c', '5h'] 0.389
+['6c', '2s']
+False 0
+['Kc', 'Ad']
+False 2
+recalculating...
+['Kc', 'Ad'] 0.633
+['Js', 'Qc']
+False 1
+['5s', 'Th']
+False 1
+recalculating...
+['5s', 'Th'] 0.447
+['3d', '9c']
+False 0
+['7d', '4s']
+False 0
+recalculating...
+['7d', '4s'] 0.401
+['3c', 'Kc']
+True 1
+['5h', 'Ts']
+False 1
+recalculating...
+['5h', 'Ts'] 0.449
+['8s', '2s']
+True 0
+['2d', '2s']
+False 3
+recalculating...
+['2d', '2s'] 0.419
+['8h', 'As']
+False 1
+['Kh', '2d']
+False 1
+recalculating...
+['Kh', '2d'] 0.503
+['8c', '3c']
+True 0
+['6h', '7s']
+False 0
+recalculating...
+['6h', '7s'] 0.398
+['2s', '6d']
+False 0
+['Jc', 'Ks']
+False 1
+recalculating...
+['Jc', 'Ks'] 0.61
+['Qh', 'Jc']
+False 1
+['Jh', 'Td']
+False 1
+recalculating...
+['Jh', 'Td'] 0.543
+['Kd', '8s']
+False 1
+['Ad', 'Tc']
+False 1
+recalculating...
+['Ad', 'Tc'] 0.625
+['Jh', 'Ac']
+False 1
+['4h', '4d']
+False 3
+recalculating...
+['4h', '4d'] 0.492
+['Kc', '8h']
+False 1
+['8d', '3h']
+False 0
+recalculating...
+['8d', '3h'] 0.416
+['Jd', 'Ah']
+False 1
+['9c', '7d']
+False 0
+recalculating...
+['9c', '7d'] 0.44
+['Ad', 'As']
+False 3
+['Qs', '6s']
+True 1
+recalculating...
+['Qs', '6s'] 0.513
+['Kh', 'As']
+False 2
+['Kc', '7d']
+False 1
+recalculating...
+['Kc', '7d'] 0.54
+['2h', 'Ad']
+False 1
+['7c', '7h']
+False 3
+recalculating...
+['7c', '7h'] 0.615
+['Kd', 'Ks']
+False 3
+['As', '5h']
+False 1
+recalculating...
+['As', '5h'] 0.544
+['5d', 'Kc']
+False 1
+['9d', '5d']
+True 0
+recalculating...
+['9d', '5d'] 0.479
+['6d', 'Kc']
+False 1
+['5c', 'Js']
+False 1
+recalculating...
+['5c', 'Js'] 0.478
+['Kd', '6s']
+False 1
+['9s', 'Qd']
+False 1
+recalculating...
+['9s', 'Qd'] 0.541
+['6s', '9s']
+True 0
+['2c', 'Ah']
+False 1
+recalculating...
+['2c', 'Ah'] 0.563
+['4d', '5c']
+False 0
+['Js', '5d']
+False 1
+recalculating...
+['Js', '5d'] 0.49
+['8s', 'Kd']
+False 1
+['5h', '5c']
+False 3
+recalculating...
+['5h', '5c'] 0.562
+['2h', '2d']
+False 3
+['6d', 'Ac']
+False 1
+recalculating...
+['6d', 'Ac'] 0.555
+['2h', 'Ah']
+True 1
+['Kh', 'Ac']
+False 2
+recalculating...
+['Kh', 'Ac'] 0.658
+['2s', '5c']
+False 0
+['Kh', 'Ts']
+False 1
+recalculating...
+['Kh', 'Ts'] 0.552
+['Jh', 'Td']
+False 1
+['3d', '6s']
+False 0
+recalculating...
+['3d', '6s'] 0.371
+['Jd', '2h']
+False 1
+['7s', 'Jh']
+False 1
+recalculating...
+['7s', 'Jh'] 0.535
+['9c', 'Jh']
+False 1
+['2h', '4c']
+False 0
+recalculating...
+['2h', '4c'] 0.355
+['Qs', 'Kc']
+False 2
+['7c', '9d']
+False 0
+recalculating...
+['7c', '9d'] 0.481
+['3h', 'Qc']
+False 1
+['Qs', '4h']
+False 1
+recalculating...
+['Qs', '4h'] 0.492
+['9c', '8c']
+True 0
+['Kc', 'Qs']
+False 2
+recalculating...
+['Kc', 'Qs'] 0.597
+['Jh', '2d']
+False 1
+['Tc', '9s']
+False 1
+recalculating...
+['Tc', '9s'] 0.539
+['Ks', 'As']
+True 2
+['8h', '6h']
+True 0
+recalculating...
+['8h', '6h'] 0.447
+['5c', 'Ad']
+False 1
+['Kh', 'Th']
+True 1
+recalculating...
+['Kh', 'Th'] 0.592
+['Ks', 'Qh']
+False 2
+['8h', '5s']
+False 0
+recalculating...
+['8h', '5s'] 0.417
+['9d', '6c']
+False 0
+['2c', '8s']
+False 0
+recalculating...
+['2c', '8s'] 0.395
+['8c', '7c']
+True 0
+['2d', '9h']
+False 0
+recalculating...
+['2d', '9h'] 0.389
+['2c', '6s']
+False 0
+['4d', 'Kh']
+False 1
+recalculating...
+['4d', 'Kh'] 0.538
+['As', '9c']
+False 1
+['Kh', '2h']
+True 1
+recalculating...
+['Kh', '2h'] 0.52
+['Kh', '8s']
+False 1
+['As', '9h']
+False 1
+recalculating...
+['As', '9h'] 0.615
+['3d', 'Qd']
+True 1
+['Kc', '7s']
+False 1
+recalculating...
+['Kc', '7s'] 0.545
+['9d', 'Ts']
+False 1
+['As', 'Th']
+False 1
+recalculating...
+['As', 'Th'] 0.619
+['Tc', '2s']
+False 1
+['Qc', 'Th']
+False 1
+recalculating...
+['Qc', 'Th'] 0.56
+['7s', '5s']
+True 0
+['4h', '8c']
+False 0
+recalculating...
+['4h', '8c'] 0.424
+['Kh', '9d']
+False 1
+['Jh', '8c']
+False 1
+recalculating...
+['Jh', '8c'] 0.513
+['Qs', '8d']
+False 1
+['9c', '5d']
+False 0
+recalculating...
+['9c', '5d'] 0.478
+['5s', 'Kd']
+False 1
+['3h', '4h']
+True 0
+recalculating...
+['3h', '4h'] 0.416
+['7d', 'Qh']
+False 1
+['2s', 'Kd']
+False 1
+recalculating...
+['2s', 'Kd'] 0.551
+['3c', 'Tc']
+True 1
+['Qc', '6h']
+False 1
+recalculating...
+['Qc', '6h'] 0.507
+['Qs', '4c']
+False 1
+['2h', '8c']
+False 0
+recalculating...
+['2h', '8c'] 0.414
+['7c', '9s']
+False 0
+['Jh', '7s']
+False 1
+recalculating...
+['Jh', '7s'] 0.502
+['4s', '7h']
+False 0
+['4h', 'Kc']
+False 1
+recalculating...
+['4h', 'Kc'] 0.54
+['4c', '3d']
+False 0
+['Js', '5s']
+True 1
+recalculating...
+['Js', '5s'] 0.513
+['9c', '2s']
+False 0
+['Ah', '6c']
+False 1
+recalculating...
+['Ah', '6c'] 0.552
+['6c', '9h']
+False 0
+['2c', '7d']
+False 0
+recalculating...
+['2c', '7d'] 0.403
+['7h', 'Th']
+True 1
+['8h', '3s']
+False 0
+recalculating...
+['8h', '3s'] 0.388
+['Kh', '3s']
+False 1
+['9d', 'Ks']
+False 1
+recalculating...
+['9d', 'Ks'] 0.537
+['8s', '8d']
+False 3
+['2c', 'Qd']
+False 1
+recalculating...
+['2c', 'Qd'] 0.47
+['8d', 'Tc']
+False 1
+['7c', 'Ad']
+False 1
+recalculating...
+['7c', 'Ad'] 0.534
+['5s', 'Js']
+True 1
+['3h', '5s']
+False 0
+recalculating...
+['3h', '5s'] 0.353
+['6h', '2h']
+True 0
+['As', '3c']
+False 1
+recalculating...
+['As', '3c'] 0.539
+['9s', '8d']
+False 0
+['Ad', 'Qh']
+False 2
+recalculating...
+['Ad', 'Qh'] 0.647
+['8d', '4c']
+False 0
+['6c', '3d']
+False 0
+recalculating...
+['6c', '3d'] 0.355
+['6d', '8s']
+False 0
+['Qd', '9c']
+False 1
+recalculating...
+['Qd', '9c'] 0.53
+['Qh', '7h']
+True 1
+['3c', 'Ah']
+False 1
+recalculating...
+['3c', 'Ah'] 0.543
+['Ts', '5h']
+False 1
+['7d', 'Kd']
+True 1
+recalculating...
+['7d', 'Kd'] 0.557
+['8d', '3s']
+False 0
+['7d', 'Th']
+False 1
+recalculating...
+['7d', 'Th'] 0.493
+['3h', 'Ah']
+True 1
+['9s', '7c']
+False 0
+recalculating...
+['9s', '7c'] 0.462
+['4h', 'Ac']
+False 1
+['Ah', '9d']
+False 1
+recalculating...
+['Ah', '9d'] 0.595
+['Ts', 'Kd']
+False 1
+['Kd', '3c']
+False 1
+recalculating...
+['Kd', '3c'] 0.478
+['7h', 'Js']
+False 1
 ['3d', 'Kd']
 True 1
 recalculating...
-['3d', 'Kd'] 0.5105
-recalculating...
-['3d', 'Kd'] 0.5725
-c-betting
-['6h', 'Jc']
-False 1
-recalculating...
-['6h', 'Jc'] 0.473
-['6h', 'Jc'] 0.473
-['6c', '3c']
-True 0
-recalculating...
-['6c', '3c'] 0.373
-recalculating...
-['6c', '3c'] 0.5585
-['4s', 'Ts']
-True 1
-recalculating...
-['4s', 'Ts'] 0.494
-['4s', 'Ts'] 0.494
-['Ac', 'Td']
-False 1
-recalculating...
-['Ac', 'Td'] 0.6635
-recalculating...
-['Ac', 'Jd'] 0.781
-['7c', '3c']
-True 0
-recalculating...
-['7c', '3c'] 0.425
-['7c', '3c'] 0.425
-['4d', 'Qd']
-True 1
-recalculating...
-['4d', 'Qd'] 0.5255
-recalculating...
-['4d', 'Qd'] 0.7625
-['6h', '9d']
+['3d', 'Kd'] 0.513
+['6d', '3h']
+False 0
+['9d', '8c']
 False 0
 recalculating...
-['6h', '9d'] 0.4095
-['Ts', 'Qc']
+['9d', '8c'] 0.475
+['3s', '5s']
+True 0
+['Qc', '8c']
+True 1
+recalculating...
+['Qc', '8c'] 0.534
+['Jd', 'Th']
+False 1
+['2h', '6s']
+False 0
+recalculating...
+['2h', '6s'] 0.38
+['Ts', 'Tc']
+False 3
+['Js', '2s']
+True 1
+recalculating...
+['Js', '2s'] 0.482
+['Qd', 'Kd']
+True 2
+['4s', '7h']
+False 0
+recalculating...
+['4s', '7h'] 0.385
+['8h', 'Qh']
+True 1
+['7d', 'Js']
 False 1
 recalculating...
-['Ts', 'Qc'] 0.565
+['7d', 'Js'] 0.53
+['Ks', '9s']
+True 1
+['Ac', '9d']
+False 1
 recalculating...
-['Ts', 'Kd'] 0.417
-['9d', '6d']
+['Ac', '9d'] 0.571
+['Qs', 'Td']
+False 1
+['2c', '4d']
+False 0
+recalculating...
+['2c', '4d'] 0.389
+['2c', '3d']
+False 0
+['5c', '8s']
+False 0
+recalculating...
+['5c', '8s'] 0.429
+['Jd', 'Ad']
+True 1
+['Qs', '5d']
+False 1
+recalculating...
+['Qs', '5d'] 0.535
+['6h', '7d']
+False 0
+['5d', 'Ks']
+False 1
+recalculating...
+['5d', 'Ks'] 0.52
+['Ah', 'As']
+False 3
+['Ad', '6d']
+True 1
+recalculating...
+['Ad', '6d'] 0.599
+['4h', '2s']
+False 0
+['Ks', 'Ts']
+True 1
+recalculating...
+['Ks', 'Ts'] 0.578
+['5s', 'As']
+True 1
+['Qc', '3s']
+False 1
+recalculating...
+['Qc', '3s'] 0.509
+['Kd', '6s']
+False 1
+['9s', '8s']
 True 0
 recalculating...
-['9d', '6d'] 0.4905
-['9d', '6d'] 0.4905
-['Kh', '8d']
-False 1
-recalculating...
-['Kh', '8d'] 0.549
-recalculating...
-['Kh', '8d'] 0.725
-['Js', '4c']
-False 1
-recalculating...
-['Js', '4c'] 0.4925
-['Js', '4c'] 0.4925
-['3d', '2s']
+['9s', '8s'] 0.518
+['3s', '9c']
 False 0
-['8h', 'Jc']
-False 1
+['4d', '9s']
+False 0
 recalculating...
-['8h', 'Jc'] 0.515
-['8h', 'Jc'] 0.515
-recalculating...
-['8h', '4h'] 0.2875
-recalculating...
-['8h', '8s'] 0.5195
-['8c', '8d']
+['4d', '9s'] 0.422
+['2c', '4s']
+False 0
+['Kd', 'Kc']
 False 3
 recalculating...
-['8c', '8d'] 0.62
+['Kd', 'Kc'] 0.782
+['Qs', '5d']
+False 1
+['9c', '4c']
+True 0
 recalculating...
-['8c', '8d'] 0.5525
-['Ah', 'Qh']
-True 2
+['9c', '4c'] 0.446
+['Js', 'Jd']
+False 3
+['3d', '5h']
+False 0
 recalculating...
-['Ah', 'Qh'] 0.66
-['9h', 'Ac']
+['3d', '5h'] 0.396
+['Th', '4c']
+False 1
+['5d', 'Ah']
 False 1
 recalculating...
-['9h', 'Ac'] 0.609
+['5d', 'Ah'] 0.563
+['Jh', 'Kh']
+True 1
+['Ks', 'Ad']
+False 2
 recalculating...
-['9h', '5c'] 0.287
-['Qd', '5d']
+['Ks', 'Ad'] 0.677
+['Ts', 'Qc']
+False 1
+['7c', '9d']
+False 0
+recalculating...
+['7c', '9d'] 0.472
+['Qs', '6d']
+False 1
+['7d', '5c']
+False 0
+recalculating...
+['7d', '5c'] 0.409
+['9h', 'Qs']
+False 1
+['3c', 'Kd']
+False 1
+recalculating...
+['3c', 'Kd'] 0.516
+['9c', '7h']
+False 0
+['8c', '6s']
+False 0
+recalculating...
+['8c', '6s'] 0.477
+['5h', 'Js']
+False 1
+['5d', '9h']
+False 0
+recalculating...
+['5d', '9h'] 0.459
+['2s', '7h']
+False 0
+['Jc', 'Kd']
+False 1
+recalculating...
+['Jc', 'Kd'] 0.62
+['3h', 'Td']
+False 1
+['7c', 'Jh']
+False 1
+recalculating...
+['7c', 'Jh'] 0.507
+['Qs', '6s']
+True 1
+['Jd', '3h']
+False 1
+recalculating...
+['Jd', '3h'] 0.452
+['3d', '2h']
+False 0
+['6h', '4s']
+False 0
+recalculating...
+['6h', '4s'] 0.393
+['8h', 'Ks']
+False 1
+['Th', 'Jd']
+False 1
+recalculating...
+['Th', 'Jd'] 0.549
+['7h', '2d']
+False 0
+['4h', '8c']
+False 0
+recalculating...
+['4h', '8c'] 0.413
+['Jh', '6s']
+False 1
+['Ts', '9s']
 True 1
 recalculating...
-['Qd', '5d'] 0.5225
-['Qd', '5d'] 0.5225
+['Ts', '9s'] 0.568
+['2h', 'Js']
+False 1
+['3h', '4s']
+False 0
+recalculating...
+['3h', '4s'] 0.386
+['7c', '7h']
+False 3
+['Th', '8d']
+False 1
+recalculating...
+['Th', '8d'] 0.481
+['Qh', '8c']
+False 1
+['3s', '4h']
+False 0
+recalculating...
+['3s', '4h'] 0.345
+['7h', 'Ah']
+True 1
+['Ah', '9h']
+True 1
+recalculating...
+['Ah', '9h'] 0.584
+['Qc', '7h']
+False 1
+['5c', '3s']
+False 0
+recalculating...
+['5c', '3s'] 0.392
+['2c', 'Kc']
+True 1
+['Th', '6s']
+False 1
+recalculating...
+['Th', '6s'] 0.444
+['3s', '9h']
+False 0
+['3d', '4c']
+False 0
+recalculating...
+['3d', '4c'] 0.387
+['7d', '7h']
+False 3
+['Js', '5c']
+False 1
+recalculating...
+['Js', '5c'] 0.485
+['8d', 'Qh']
+False 1
+['Td', 'Kc']
+False 1
+recalculating...
+['Td', 'Kc'] 0.581
+['Qh', '8h']
+True 1
+['Js', 'Qh']
+False 1
+recalculating...
+['Js', 'Qh'] 0.547
+['7s', '9c']
+False 0
+['4s', 'Qc']
+False 1
+recalculating...
+['4s', 'Qc'] 0.486
+['4d', '4c']
+False 3
+['Qs', '9c']
+False 1
+recalculating...
+['Qs', '9c'] 0.528
+['9s', 'Jc']
+False 1
+['7d', '2c']
+False 0
+recalculating...
+['7d', '2c'] 0.346
+['Kh', '5h']
+True 1
+['7h', 'Qh']
+True 1
+recalculating...
+['7h', 'Qh'] 0.522
+['Qh', '3s']
+False 1
+['Kd', 'Kc']
+False 3
+recalculating...
+['Kd', 'Kc'] 0.735
+['9d', 'Ts']
+False 1
+['9d', '7h']
+False 0
+recalculating...
+['9d', '7h'] 0.464
+['6d', '3d']
+True 0
+['4s', '2d']
+False 0
+recalculating...
+['4s', '2d'] 0.371
+['Ks', '6h']
+False 1
+['7s', '4s']
+True 0
+recalculating...
+['7s', '4s'] 0.455
+['3c', '7d']
+False 0
+['Qc', '5s']
+False 1
+recalculating...
+['Qc', '5s'] 0.498
+['8c', '6h']
+False 0
+['2c', '6h']
+False 0
+recalculating...
+['2c', '6h'] 0.393
+['3s', '7d']
+False 0
+['Ac', '8c']
+True 1
+recalculating...
+['Ac', '8c'] 0.606
+['Jc', '5s']
+False 1
+['3h', '2c']
+False 0
+recalculating...
+['3h', '2c'] 0.341
+['Qd', 'Qs']
+False 3
+['Js', '9h']
+False 1
+recalculating...
+['Js', '9h'] 0.559
+['Qh', '3d']
+False 1
+['2d', '3h']
+False 0
+recalculating...
+['2d', '3h'] 0.369
+['Jh', 'Jc']
+False 3
+['9d', '2s']
+False 0
+recalculating...
+['9d', '2s'] 0.384
+['6c', '9s']
+False 0
+['7s', '5c']
+False 0
+recalculating...
+['7s', '5c'] 0.438
+['2d', 'Kd']
+True 1
+['Js', '4d']
+False 1
+recalculating...
+['Js', '4d'] 0.45
+['As', '8h']
+False 1
+['Jc', '8d']
+False 1
+recalculating...
+['Jc', '8d'] 0.487
+['9c', '6c']
+True 0
+['Qs', '4c']
+False 1
+recalculating...
+['Qs', '4c'] 0.535
+['As', '5h']
+False 1
+['Jh', '2s']
+False 1
+recalculating...
+['Jh', '2s'] 0.448
+['7d', '7h']
+False 3
+['Ac', '2d']
+False 1
+recalculating...
+['Ac', '2d'] 0.488
+['7d', '2h']
+False 0
+['Qc', '3c']
+True 1
+recalculating...
+['Qc', '3c'] 0.494
+['5d', 'Jh']
+False 1
+['Kc', 'Ad']
+False 2
+recalculating...
+['Kc', 'Ad'] 0.636
+['Ad', '5c']
+False 1
+['9s', '3d']
+False 0
+recalculating...
+['9s', '3d'] 0.4
+['Ah', '6d']
+False 1
+['As', 'Ad']
+False 3
+recalculating...
+['As', 'Ad'] 0.768
+['8s', '7h']
+False 0
+['3s', '9h']
+False 0
+recalculating...
+['3s', '9h'] 0.393
+['4c', 'Qd']
+False 1
+['9h', 'Td']
+False 1
+recalculating...
+['9h', 'Td'] 0.557
+['Qh', 'Jh']
+True 1
+['4h', '5s']
+False 0
+recalculating...
+['4h', '5s'] 0.387
+['7s', '4d']
+False 0
+['Ts', 'Jc']
+False 1
+recalculating...
+['Ts', 'Jc'] 0.553
+['7d', '2s']
+False 0
+['3d', '7d']
+True 0
+recalculating...
+['3d', '7d'] 0.443
+['3c', '7s']
+False 0
+['Ac', 'Kd']
+False 2
+recalculating...
+['Ac', 'Kd'] 0.621
+['8s', '4d']
+False 0
+['7s', '4c']
+False 0
+recalculating...
+['7s', '4c'] 0.388
+['5c', '3h']
+False 0
+['Ts', '9s']
+True 1
+recalculating...
+['Ts', '9s'] 0.541
+['7d', '2c']
+False 0
+['9h', '7s']
+False 0
+recalculating...
+['9h', '7s'] 0.494
+['Qh', '2d']
+False 1
+['4d', '7h']
+False 0
+recalculating...
+['4d', '7h'] 0.409
+['7d', 'Kc']
+False 1
+['Ks', 'Kd']
+False 3
+recalculating...
+['Ks', 'Kd'] 0.731
+['Jc', 'Kc']
+True 1
+['6c', 'Qc']
+True 1
+recalculating...
+['6c', 'Qc'] 0.504
+['Tc', 'Qh']
+False 1
+['Ts', '7s']
+True 1
+recalculating...
+['Ts', '7s'] 0.496
+['Ac', 'Th']
+False 1
+['Ah', '6c']
+False 1
+recalculating...
+['Ah', '6c'] 0.577
+['Qc', '3s']
+False 1
+['6d', 'Jc']
+False 1
+recalculating...
+['6d', 'Jc'] 0.47
+['Ad', '4s']
+False 1
+['Qh', 'Ad']
+False 2
+recalculating...
+['Qh', 'Ad'] 0.608
+['Kh', '8c']
+False 1
+['8c', '8s']
+False 3
+recalculating...
+['8c', '8s'] 0.604
+['7d', '3h']
+False 0
+['Jc', '8d']
+False 1
+recalculating...
+['Jc', '8d'] 0.5
+['As', '8d']
+False 1
+['Kc', '7h']
+False 1
+recalculating...
+['Kc', '7h'] 0.54
+['Ts', '2d']
+False 1
+['4d', '7d']
+True 0
+recalculating...
+['4d', '7d'] 0.435
+['Ks', '8s']
+True 1
+['7s', 'Ac']
+False 1
+recalculating...
+['7s', 'Ac'] 0.585
+['7s', 'Ah']
+False 1
+['2s', '3d']
+False 0
+recalculating...
+['2s', '3d'] 0.346
+['8h', '3c']
+False 0
+['5d', '9h']
+False 0
+recalculating...
+['5d', '9h'] 0.459
+['7h', '3d']
+False 0
+['Ks', 'Qs']
+True 2
+recalculating...
+['Ks', 'Qs'] 0.628
+['6s', '8h']
+False 0
+['9d', '8c']
+False 0
+recalculating...
+['9d', '8c'] 0.467
+['8h', '9s']
+False 0
+['7h', 'Jh']
+True 1
+recalculating...
+['7h', 'Jh'] 0.542
+['Ts', 'Ks']
+True 1
+['3d', '3c']
+False 3
+recalculating...
+['3d', '3c'] 0.48
+['Jd', '3h']
+False 1
+['Ac', 'Qd']
+False 2
+recalculating...
+['Ac', 'Qd'] 0.617
+['Ts', '6h']
+False 1
+['Kh', '4h']
+True 1
+recalculating...
+['Kh', '4h'] 0.522
+['8s', 'Js']
+True 1
+['2c', 'Ks']
+False 1
+recalculating...
+['2c', 'Ks'] 0.497
+['3s', '4c']
+False 0
+['8d', 'Jc']
+False 1
+recalculating...
+['8d', 'Jc'] 0.519
+['9h', '3d']
+False 0
+['5h', '6h']
+True 0
+recalculating...
+['5h', '6h'] 0.415
+['Ks', 'Ts']
+True 1
+['Ts', '7s']
+True 1
+recalculating...
+['Ts', '7s'] 0.523
+['Qh', 'Qd']
+False 3
+['8c', '7c']
+True 0
+recalculating...
+['8c', '7c'] 0.496
+['4c', '5c']
+True 0
+['7h', 'As']
+False 1
+recalculating...
+['7h', 'As'] 0.558
+['7h', 'Ts']
+False 1
+['6h', 'Td']
+False 1
+recalculating...
+['6h', 'Td'] 0.464
+['Kh', '2d']
+False 1
+['4h', '7c']
+False 0
+recalculating...
+['4h', '7c'] 0.403
+['Qh', '9h']
+True 1
+['4h', 'Jh']
+True 1
+recalculating...
+['4h', 'Jh'] 0.512
+['6c', '3h']
+False 0
+['3h', 'Tc']
+False 1
+recalculating...
+['3h', 'Tc'] 0.448
+['As', '7d']
+False 1
+['Ks', '4h']
+False 1
+recalculating...
+['Ks', '4h'] 0.564
+['Qc', 'Jh']
+False 1
+['Kh', 'Td']
+False 1
+recalculating...
+['Kh', 'Td'] 0.623
+['Qd', 'As']
+False 2
+['Kh', '3s']
+False 1
+recalculating...
+['Kh', '3s'] 0.54
+['8s', '9s']
+True 0
+['As', 'Js']
+True 1
+recalculating...
+['As', 'Js'] 0.623
+['9c', 'Qh']
+False 1
+['Qd', '8d']
+True 1
+recalculating...
+['Qd', '8d'] 0.591
+['8d', '8c']
+False 3
+['Td', '6d']
+True 1
+recalculating...
+['Td', '6d'] 0.535
+['3h', '8c']
+False 0
+['5c', '8c']
+True 0
+recalculating...
+['5c', '8c'] 0.441
+['7h', '5h']
+True 0
+['Ks', '4h']
+False 1
+recalculating...
+['Ks', '4h'] 0.5
+['As', '4d']
+False 1
+['Ks', '2s']
+True 1
+recalculating...
+['Ks', '2s'] 0.519
+['Qs', '3h']
+False 1
+['7h', '5c']
+False 0
+recalculating...
+['7h', '5c'] 0.415
+['9c', 'Kh']
+False 1
+['8d', '5s']
+False 0
+recalculating...
+['8d', '5s'] 0.439
+['Qs', '8d']
+False 1
+['9c', '7h']
+False 0
+recalculating...
+['9c', '7h'] 0.468
+['2h', '7h']
+True 0
+['6c', '8s']
+False 0
+recalculating...
+['6c', '8s'] 0.48
+['8c', 'Th']
+False 1
+['Ts', '2h']
+False 1
+recalculating...
+['Ts', '2h'] 0.399
+['Ac', 'Tc']
+True 1
+['5d', '3h']
+False 0
+recalculating...
+['5d', '3h'] 0.382
+['6h', '4s']
+False 0
+['3h', '8h']
+True 0
+recalculating...
+['3h', '8h'] 0.447
+['Ah', '9h']
+True 1
+['4d', '2h']
+False 0
+recalculating...
+['4d', '2h'] 0.361
+['8d', 'Jc']
+False 1
+['Kh', '7c']
+False 1
+recalculating...
+['Kh', '7c'] 0.543
+['Th', '3c']
+False 1
+['Ks', '9d']
+False 1
+recalculating...
+['Ks', '9d'] 0.547
+['6d', '3s']
+False 0
+['3d', 'As']
+False 1
+recalculating...
+['3d', 'As'] 0.555
+['2h', '5s']
+False 0
+['Tc', 'Ad']
+False 1
+recalculating...
+['Tc', 'Ad'] 0.625
+['5h', 'Ah']
+True 1
+['Kd', 'Ts']
+False 1
+recalculating...
+['Kd', 'Ts'] 0.589
+['Ts', 'Jd']
+False 1
+['2s', '4c']
+False 0
+recalculating...
+['2s', '4c'] 0.393
+['9h', 'Kh']
+True 1
+['Jd', 'Kh']
+False 1
+recalculating...
+['Jd', 'Kh'] 0.597
+['Jc', '7h']
+False 1
+['7d', '2h']
+False 0
+recalculating...
+['7d', '2h'] 0.388
+['6c', '3s']
+False 0
+['Jd', '5s']
+False 1
+recalculating...
+['Jd', '5s'] 0.447
+['3s', '9d']
+False 0
+['Ac', '8s']
+False 1
+recalculating...
+['Ac', '8s'] 0.607
+['Kc', '5d']
+False 1
+['6d', '7s']
+False 0
+recalculating...
+['6d', '7s'] 0.419
+['Ad', '4d']
+True 1
+['9h', '8h']
+True 0
+recalculating...
+['9h', '8h'] 0.505
+['7d', 'Ts']
+False 1
+['4h', '2s']
+False 0
+recalculating...
+['4h', '2s'] 0.367
+['Kh', '7d']
+False 1
+['8s', '7s']
+True 0
+recalculating...
+['8s', '7s'] 0.478
+['3d', '9d']
+True 0
+['4c', 'Js']
+False 1
+recalculating...
+['4c', 'Js'] 0.461
+['4h', '2c']
+False 0
+['2c', '5c']
+True 0
+recalculating...
+['2c', '5c'] 0.423
+['6d', '6c']
+False 3
+['6h', '3s']
+False 0
+recalculating...
+['6h', '3s'] 0.375
+['Qc', '9h']
+False 1
+['Kh', '9d']
+False 1
+recalculating...
+['Kh', '9d'] 0.526
+['7h', '9d']
+False 0
+['Qd', 'Qh']
+False 3
+recalculating...
+['Qd', 'Qh'] 0.694
+['Td', '8s']
+False 1
+['7h', '4h']
+True 0
+recalculating...
+['7h', '4h'] 0.397
+['5c', 'Jh']
+False 1
+['8c', 'As']
+False 1
+recalculating...
+['8c', 'As'] 0.577
+['8d', 'As']
+False 1
+['9h', '9s']
+False 3
+recalculating...
+['9h', '9s'] 0.709
+['Ks', 'Ts']
+True 1
+['Ah', '7h']
+True 1
+recalculating...
+['Ah', '7h'] 0.628
+['Tc', '9d']
+False 1
+['Kh', '6h']
+True 1
+recalculating...
+['Kh', '6h'] 0.571
+['9h', '6s']
+False 0
+['3c', '9s']
+False 0
+recalculating...
+['3c', '9s'] 0.394
+['Qc', 'Jh']
+False 1
+['Kd', '7d']
+True 1
+recalculating...
+['Kd', '7d'] 0.578
+['3d', '7s']
+False 0
+['8c', 'Jh']
+False 1
+recalculating...
+['8c', 'Jh'] 0.507
+['Ad', 'Jc']
+False 1
+['9c', '2s']
+False 0
+recalculating...
+['9c', '2s'] 0.403
+['6c', '8c']
+True 0
+['4h', 'Tc']
+False 1
+recalculating...
+['4h', 'Tc'] 0.48
+['6h', 'Jh']
+True 1
+['7s', 'As']
+True 1
+recalculating...
+['7s', 'As'] 0.604
+['8d', '9s']
+False 0
+['7s', '5s']
+True 0
+recalculating...
+['7s', '5s'] 0.421
+['9h', '2h']
+True 0
+['Ts', 'Th']
+False 3
+recalculating...
+['Ts', 'Th'] 0.725
+['4d', 'Js']
+False 1
+['5c', '3h']
+False 0
+recalculating...
+['5c', '3h'] 0.348
+['8d', 'Th']
+False 1
+['Tc', 'Jc']
+True 1
+recalculating...
+['Tc', 'Jc'] 0.54
+['Ad', '3h']
+False 1
+['9c', '8c']
+True 0
+recalculating...
+['9c', '8c'] 0.489
+['7h', '5h']
+True 0
+['2c', 'Qd']
+False 1
+recalculating...
+['2c', 'Qd'] 0.474
+['6h', '4c']
+False 0
+['4s', 'Ac']
+False 1
+recalculating...
+['4s', 'Ac'] 0.5
+['Jh', '3d']
+False 1
+['6s', 'As']
+True 1
+recalculating...
+['6s', 'As'] 0.594
+['9d', 'Kc']
+False 1
